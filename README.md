@@ -12,4 +12,3 @@ Página web personal creada como parte de la asignatura de **Lenguaje de Marcas*
 ## Autor
 **Luis Miguel Pablos Orge** – Alumno de DAM
 
-[Ver página en vivo](https://luisbloom.github.io/PROYECTO_LENGUAJE_DE_MARCAS/)
